@@ -5,4 +5,5 @@ As part of the Google Cybersecurity Certificate programme I was tasked with cond
 
 
 
-[View Project]()
+[View Project](https://github.com/mharuf/Internal-audit/blob/main/Internal%20audit%20task.pdf)  
+[View fictional company information used for audit](https://github.com/mharuf/Internal-audit/blob/main/Botium%20toys%20info.pdf)
